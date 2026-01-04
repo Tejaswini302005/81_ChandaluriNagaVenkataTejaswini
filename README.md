@@ -1,5 +1,5 @@
 
-# Problem Statemnt:
+# Problem Statement:
 
 Patients often forget medication timings, misunderstand prescription labels, or fail 
 to follow specific instructions such as dosage, food restrictions, duration, and warning 
