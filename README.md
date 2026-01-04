@@ -76,7 +76,7 @@ The system integrates computer vision, information retrieval, and AI-driven conv
 
 - Warnings
 
-# Side effects
+# Advantages
 
 - A Retrieval-Augmented Generation (RAG) pipeline ensures:
 
